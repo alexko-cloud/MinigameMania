@@ -1,0 +1,4 @@
+3 3
+o t o 
+o o h 
+q o o
